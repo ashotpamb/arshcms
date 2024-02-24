@@ -14,8 +14,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Arshcms\\Models": " Models/",
-            "Arshcms\\Services": " Services/"
+            "Arshcms\\Models\\": " Models/",
+            "Arshcms\\Services\\": " Services/"
         }
     },
     "authors": [
