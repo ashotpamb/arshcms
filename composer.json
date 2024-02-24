@@ -1,0 +1,22 @@
+{
+    "name": "arsho/arshcms",
+    "type": "project",
+    "require": {
+        "php": "8.1.2",
+        "laravel/framework": "10"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Arshcms\\Models": " Models/",
+            "Arshcms\\Services": " Services/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ashotpamb",
+            "email": "pamb6101@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
