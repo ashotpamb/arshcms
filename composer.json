@@ -1,5 +1,5 @@
 {
-    "name": "arsho/arshcms",
+    "name": "arshcms/base",
     "type": "project",
     "require": {
         "php": "^8.1",
